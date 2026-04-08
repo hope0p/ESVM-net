@@ -1,2 +1,3 @@
 # ESVM-net
-Our code will be released upon acceptance.
+This repository contains the official implementation of our model. We commit to open-sourcing the code once the paper is accepted.
+
