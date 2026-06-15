@@ -1,4 +1,5 @@
-<h1 align="center">Decoupling Background and Targets: An Efficient Subtractive Vision Mamba for Medical Image Segmentation</h1>
+<h1 align="center">Foreground–Background Decoupled Subtractive Vision Mamba
+Network for Efficient Medical Image Segmentation</h1>
 
 ---
 
